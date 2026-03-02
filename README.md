@@ -48,9 +48,8 @@ Sp07-ADV/
 └── README.md             # Documentación
 ```
 ## Creditos / Autor
-```
+
 Adrian Gil
 Data Scientist | Engineering Background 
-https://github.com/adriangil007
-https://www.linkedin.com/in/adriangilr/
-```
+-https://github.com/adriangil007
+-https://www.linkedin.com/in/adriangilr/
