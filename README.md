@@ -51,5 +51,7 @@ Sp07-ADV/
 
 Adrian Gil
 Data Scientist | Engineering Background 
+
 -https://github.com/adriangil007
+
 -https://www.linkedin.com/in/adriangilr/
